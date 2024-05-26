@@ -1,0 +1,1 @@
+# Exercise 7: Convert the following JSON into Vehicle Object
