@@ -1,0 +1,1 @@
+# Exercise 2: Access the value of key2 from the following JSON
