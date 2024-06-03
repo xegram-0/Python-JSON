@@ -47,7 +47,9 @@ json_data = """
 ]
 """
 
-
+# Load string json data 
 the_data = json.loads(json_data)
+
+# Take the "name" data by using get comprehension
 targetData = [item.get("name") for item in the_data]
 print(targetData)
